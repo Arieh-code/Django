@@ -1,0 +1,23 @@
+/* tags */
+
+body{
+    background-color: gray;
+}
+
+div{
+    background: red;
+    border-color: blue;
+    border-width: 5px;
+    border-style: dotted;
+}
+
+span{
+    border-color: greenyellow;
+    border-width: 5px;
+    border-style: groove;
+    color: black;
+}
+
+p{
+    color: yellow;
+}

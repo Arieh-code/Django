@@ -1,0 +1,23 @@
+/* This is a comment */
+
+/* this is a general basic formant of the css file
+
+select tag{
+    property: value;
+} */
+
+h1{
+    color: blue;
+}
+
+li{
+    color: rgb(218, 211, 190);
+}
+
+h4{
+    color: #F19ED2;
+}
+
+p{
+    color: rgba(240, 42, 113, 0.5);
+}
