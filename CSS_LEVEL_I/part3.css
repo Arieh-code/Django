@@ -1,0 +1,27 @@
+/* tags are like this */
+
+h3{
+    color: red;
+}
+
+
+/* classes can also be multiused and are more specific than tags  */
+
+.firstDiv{
+    color: blue;
+}
+
+.secondDiv{
+    color: blueviolet;
+}
+
+
+
+/* ID's are even more specific than classes and we would like to use them once */
+
+#singledout{
+    color: green;
+}
+
+
+/* there are more ways to customize your styling you can find a lot more on the internet */
