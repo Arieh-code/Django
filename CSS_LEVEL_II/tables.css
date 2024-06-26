@@ -1,0 +1,38 @@
+table {
+  margin: auto;
+  border-spacing: 10px;
+}
+
+.titleFont {
+  font-family: "Playwrite MX", cursive;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+  text-align: center;
+  padding: 25px 25px 25px 25px;
+}
+
+td {
+  background-color: black;
+  height: 200px;
+  width: 100px;
+}
+
+#firstColor {
+  background-color: #f9ed69;
+}
+#secondColor {
+  background-color: #f08a5d;
+}
+
+#thirdColor {
+  background-color: #b83b5e;
+}
+
+#fourthColor {
+  background-color: #6a2c70;
+}
+
+#fifthColor {
+  background-color: #cae6b2;
+}
